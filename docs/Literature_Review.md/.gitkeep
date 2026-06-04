@@ -1,0 +1,147 @@
+# Literature Review
+
+## Introduction
+
+Artificial Intelligence is increasingly being used across higher education institutions to support admissions, assessment, learning analytics, student support, employability services, and campus operations. While these systems offer efficiency and scalability, researchers have raised concerns about their potential to reproduce and amplify existing social inequalities.
+
+This review examines the relationship between gender bias, data quality, fairness, governance, and AI decision-making within university environments.
+
+---
+
+## AI Decision-Making in Higher Education
+
+The framework is informed by research on AI bias in education (Verger et al., 2023) and aligned with industry-recognised governance standards including the NIST AI RMF, EU AI Act, GDPR, and OECD AI principles.
+
+The study identified several factors that influence AI reliability:
+
+- Data quality
+- Organisational readiness
+- User engagement
+- Technology infrastructure
+
+The findings suggest that AI effectiveness depends not only on algorithms but also on the broader organisational environment in which systems operate.
+
+---
+
+## Data Quality as a Source of Risk
+
+Recent research argues that data quality extends beyond technical accuracy.
+
+Data quality includes:
+
+- Completeness
+- Representation
+- Temporal relevance
+- Conceptual validity
+
+Researchers highlight that AI systems may become unfair when categories, labels, and data structures no longer accurately represent real-world populations.
+
+This introduces risks such as:
+
+- Chronological bias
+- Representation bias
+- Ontological errors
+
+---
+
+## Gender Bias in AI Systems
+
+Studies consistently show that gender bias often originates from historical and socially distorted datasets.
+
+Common causes include:
+
+- Underrepresentation
+- Overrepresentation
+- Misrepresentation
+- Historical inequality
+- Proxy variables
+
+Research demonstrates that AI systems frequently inherit patterns embedded within existing institutions and may reinforce them through automated decision-making.
+
+---
+
+## Proxy Variable Bias
+
+Several studies highlight the role of proxy variables in generating gender bias.
+
+Even when gender is removed from a dataset, AI systems may infer gender indirectly through variables such as:
+
+- School type
+- Postcode
+- Subject choice
+- Attendance behaviour
+- Communication patterns
+
+As a result, apparently neutral systems may still produce gender-skewed outcomes.
+
+---
+
+## Fairness and Model Performance
+
+Research examining AI-based educational assessment found that fairness cannot be evaluated using accuracy alone.
+
+Models trained on balanced datasets generally produced fairer outcomes than those trained on gender-specific datasets.
+
+The findings suggest that:
+
+- High accuracy does not guarantee fairness
+- Performance should be evaluated across demographic groups
+- Fairness metrics must complement traditional performance metrics
+
+---
+
+## Human and Organisational Factors
+
+Research also shows that bias is influenced by the organisational environment surrounding AI systems.
+
+Factors include:
+
+- AI literacy
+- User trust
+- Staff training
+- Governance maturity
+- Stakeholder involvement
+
+Differences in confidence, engagement, and trust can influence both system adoption and data collection.
+
+---
+
+## AI Governance and Accountability
+
+Current governance frameworks emphasise the importance of:
+
+- Transparency
+- Accountability
+- Human oversight
+- Explainability
+- Continuous monitoring
+
+Regulatory developments such as the EU AI Act and NIST AI Risk Management Framework increasingly require organisations to demonstrate responsible AI practices.
+
+---
+
+## Research Gap
+
+While significant research exists on algorithmic fairness and AI bias, relatively few frameworks provide practical guidance specifically for higher education institutions.
+
+Most existing approaches focus on technical bias detection rather than lifecycle-based risk assessment.
+
+This project addresses that gap by combining:
+
+- Data risk assessment
+- Fairness evaluation
+- Governance controls
+- Human oversight mechanisms
+- Continuous monitoring
+
+within a single operational framework.
+
+---
+
+## Conclusion
+
+The literature demonstrates that gender bias in AI systems is a socio-technical problem emerging from the interaction of data, models, institutions, and human behaviour.
+
+Effective mitigation requires more than algorithmic improvements. It requires strong governance, robust data quality practices, fairness monitoring, organisational readiness, and meaningful human oversight.
+
+These findings form the foundation of the Gender Bias Risk Assessment Framework developed in this project.
