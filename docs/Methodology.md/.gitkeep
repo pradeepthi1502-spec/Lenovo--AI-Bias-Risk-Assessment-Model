@@ -1,0 +1,152 @@
+# Methodology
+
+## Project Overview
+
+This project was developed for Lenovo Future17 Global Challenge in partnership with QS. The objective was to design a practical risk assessment model capable of identifying, measuring, and mitigating gender bias risks in Artificial Intelligence (AI) systems used within higher education institutions.
+
+The project focuses on AI systems that influence student outcomes across admissions, assessment, learning analytics, student support, employability, and campus safety.
+
+---
+
+## Research Approach
+
+A structured literature review was conducted to identify the primary sources of gender bias in AI systems and understand how these risks emerge throughout the AI lifecycle.
+
+The review focused on:
+
+- AI governance frameworks
+- Higher education AI systems
+- Algorithmic fairness
+- Data quality and bias
+- Responsible AI practices
+- Gender equity in AI decision-making
+
+Sources included peer-reviewed journals, academic conference papers, policy frameworks, regulatory guidance, and responsible AI standards.
+
+---
+
+## Framework Development Process
+
+The framework was developed through a five-stage process.
+
+### Stage 1: Problem Definition
+
+The problem was defined as:
+
+"How can universities systematically identify and manage gender bias risks within AI-enabled decision-making systems?"
+
+The scope included both direct decision-making systems and AI systems that indirectly influence student outcomes.
+
+---
+
+### Stage 2: Literature Review and Evidence Mapping
+
+Research findings were mapped into recurring risk themes.
+
+Common themes identified included:
+
+- Data quality risk
+- Representation risk
+- Historical bias
+- Proxy variable bias
+- Fairness risk
+- Human oversight risk
+- Governance risk
+- Organisational readiness risk
+
+These themes became the foundation of the framework domains.
+
+---
+
+### Stage 3: Risk Domain Design
+
+A six-domain structure was created to assess risk across the entire AI lifecycle:
+
+1. Context and Use-Case Risk
+2. Data Risk
+3. Model and Performance Risk
+4. Decision and Deployment Risk
+5. Human and Organisational Risk
+6. Governance, Vendor, Rights and Monitoring Risk
+
+This lifecycle approach ensures that risk is assessed before, during, and after AI deployment.
+
+---
+
+### Stage 4: Risk Scoring Model
+
+A quantitative scoring methodology was developed.
+
+The model evaluates:
+
+- Inherent Risk
+- Control Maturity
+
+Each domain is scored using a standardised scale.
+
+Assessment outcomes include:
+
+- Approve
+- Approve with Conditions
+- Pause / Redesign
+- Prohibit
+
+This allows the framework to move beyond theoretical assessment into practical decision support.
+
+---
+
+### Stage 5: Operationalisation
+
+The framework was translated into practical implementation tools:
+
+- Risk assessment templates
+- Fairness evaluation metrics
+- Evidence pack requirements
+- Governance review process
+- Continuous monitoring model
+- AI system registry
+
+These components support real-world adoption within universities.
+
+---
+
+## Analytical Techniques
+
+The project incorporates concepts from:
+
+- Risk assessment methodology
+- AI governance
+- Fairness analytics
+- Data quality assessment
+- Bias detection
+- Decision support systems
+
+Key analytical measures include:
+
+- False Positive Rate (FPR)
+- False Negative Rate (FNR)
+- Selection Rate Disparity
+- Representation Analysis
+- Proxy Variable Assessment
+- Fairness Gap Monitoring
+
+---
+
+## Governance Alignment
+
+The framework aligns with:
+
+- EU AI Act
+- NIST AI Risk Management Framework
+- UK GDPR
+- ICO Guidance
+- Equality Act 2010
+- Russell Group AI Principles
+
+---
+
+## Project Outcome
+
+The final output is a practical AI governance and gender bias risk assessment model designed to help universities evaluate AI systems before deployment and continuously monitor them after implementation.
+
+The framework supports evidence-based, transparent, and accountable AI adoption in higher education.
