@@ -1,0 +1,16 @@
+{
+  "largest_gap_percentage_points": {
+    "very_low": 5,
+    "low": 10,
+    "moderate": 15,
+    "high": 20
+  },
+  "minimum_subgroup_size": 100,
+  "sample_size_warning_threshold": 50,
+  "proxy_association_cramers_v": {
+    "very_low": 0.1,
+    "low": 0.2,
+    "moderate": 0.3
+  },
+  "detector_score_threshold": 0.5
+}

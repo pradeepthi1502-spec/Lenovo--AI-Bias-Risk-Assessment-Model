@@ -1,0 +1,23 @@
+{
+  "evidence_items": [
+    "System description",
+    "Decision influence map",
+    "Data dictionary",
+    "Demographic coverage summary",
+    "Fairness and performance test results",
+    "Human oversight procedure",
+    "Vendor model card",
+    "DPIA summary",
+    "Equality impact assessment",
+    "Student notice and explanation text",
+    "Appeal route",
+    "Rollback or suspension plan",
+    "Monitoring schedule",
+    "Incident log"
+  ],
+  "status_scores": {
+    "Provided": 1.0,
+    "Partial": 0.5,
+    "Missing": 0.0
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "ai_detection_tool": {
+    "display_name": "AI Detection Tool",
+    "deployment_category": "current",
+    "risk_tier": "high",
+    "domain_weights": {
+      "data_assurance": 0.15,
+      "model_fairness": 0.3,
+      "decision_oversight": 0.25,
+      "human_organisational": 0.1,
+      "governance_controls": 0.2
+    },
+    "priority_metrics": [
+      "false_positive_rate",
+      "false_negative_rate",
+      "detection_flag_rate",
+      "human_review_rate",
+      "appeal_success_rate"
+    ],
+    "critical_controls": [
+      "human_oversight_procedure",
+      "appeal_route",
+      "fairness_testing_evidence",
+      "student_notice",
+      "monitoring_schedule"
+    ]
+  },
+  "student_chatbot": {
+    "display_name": "Student Support Chatbot",
+    "deployment_category": "current",
+    "risk_tier": "moderate",
+    "domain_weights": {
+      "data_assurance": 0.1,
+      "model_fairness": 0.15,
+      "decision_oversight": 0.3,
+      "human_organisational": 0.2,
+      "governance_controls": 0.25
+    },
+    "priority_metrics": [
+      "escalation_accuracy",
+      "response_quality",
+      "safeguarding_routing",
+      "student_satisfaction_gap"
+    ],
+    "critical_controls": [
+      "safeguarding_escalation",
+      "human_oversight_procedure",
+      "student_notice",
+      "incident_log"
+    ]
+  },
+  "vle_engagement_analytics": {
+    "display_name": "VLE Engagement Analytics",
+    "deployment_category": "current",
+    "risk_tier": "moderate",
+    "domain_weights": {
+      "data_assurance": 0.25,
+      "model_fairness": 0.25,
+      "decision_oversight": 0.2,
+      "human_organisational": 0.15,
+      "governance_controls": 0.15
+    },
+    "priority_metrics": [
+      "low_engagement_flag_rate",
+      "unsuccessful_outcome_rate",
+      "proxy_association",
+      "intervention_rate"
+    ],
+    "critical_controls": [
+      "data_dictionary",
+      "demographic_coverage_summary",
+      "human_oversight_procedure",
+      "monitoring_schedule"
+    ]
+  },
+  "career_service_ai": {
+    "display_name": "Career-Service AI",
+    "deployment_category": "current",
+    "risk_tier": "moderate",
+    "domain_weights": {
+      "data_assurance": 0.2,
+      "model_fairness": 0.25,
+      "decision_oversight": 0.2,
+      "human_organisational": 0.15,
+      "governance_controls": 0.2
+    },
+    "priority_metrics": [
+      "recommendation_rate",
+      "career_path_distribution",
+      "tool_usage_rate",
+      "outcome_gap"
+    ],
+    "critical_controls": [
+      "vendor_model_card",
+      "fairness_testing_evidence",
+      "student_notice",
+      "appeal_route"
+    ]
+  },
+  "ai_assisted_marking_feedback": {
+    "display_name": "AI-Assisted Marking and Feedback",
+    "deployment_category": "future_readiness",
+    "risk_tier": "high",
+    "domain_weights": {
+      "data_assurance": 0.2,
+      "model_fairness": 0.3,
+      "decision_oversight": 0.25,
+      "human_organisational": 0.1,
+      "governance_controls": 0.15
+    },
+    "priority_metrics": [
+      "score_gap",
+      "feedback_quality_gap",
+      "moderation_override_rate",
+      "appeal_success_rate"
+    ],
+    "critical_controls": [
+      "human_moderation",
+      "fairness_testing_evidence",
+      "student_notice",
+      "appeal_route",
+      "monitoring_schedule"
+    ]
+  },
+  "early_alert_prediction": {
+    "display_name": "Early Alert Prediction",
+    "deployment_category": "future_readiness",
+    "risk_tier": "high",
+    "domain_weights": {
+      "data_assurance": 0.25,
+      "model_fairness": 0.25,
+      "decision_oversight": 0.2,
+      "human_organisational": 0.15,
+      "governance_controls": 0.15
+    },
+    "priority_metrics": [
+      "false_positive_rate",
+      "false_negative_rate",
+      "intervention_rate",
+      "outcome_gap"
+    ],
+    "critical_controls": [
+      "data_dictionary",
+      "fairness_testing_evidence",
+      "human_oversight_procedure",
+      "student_notice",
+      "monitoring_schedule"
+    ]
+  }
+}
