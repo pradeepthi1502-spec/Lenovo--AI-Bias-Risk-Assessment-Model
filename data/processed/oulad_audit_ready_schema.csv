@@ -1,0 +1,18 @@
+column,type,description
+id_student,integer,Anonymised student identifier
+code_module,string,OULAD module code
+code_presentation,string,OULAD presentation code
+gender,categorical,Student gender from OULAD
+region,categorical,Student region
+highest_education,categorical,Student previous education
+imd_band,categorical,Index of multiple deprivation band
+age_band,categorical,Student age band
+num_of_prev_attempts,integer,Previous attempts
+studied_credits,integer,Credits studied
+disability,categorical,Disability indicator
+total_clicks,integer,Total VLE interactions derived from studentVle
+early_clicks,integer,VLE interactions during early course period
+avg_assessment_score,float,Average weighted/unweighted assessment score
+submission_delay_avg,float,Average difference between submission date and due date
+final_result,categorical,OULAD final result
+at_risk_label,integer,"Demo target label for early-alert audit, derived from final_result"

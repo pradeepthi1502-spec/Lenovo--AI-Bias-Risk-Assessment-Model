@@ -1,0 +1,129 @@
+system_id,system_type,evidence_item,priority,status,acceptable_for_approval,notes
+SYS001,ai_detection_tool,System description and intended use,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Named accountable owner,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Decision influence map,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Data dictionary,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Demographic coverage summary,High,Missing,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Fairness and performance results,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,False positive testing,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Human oversight procedure,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Student notice text,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Appeal and challenge route,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,DPIA summary,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Equality impact assessment,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Vendor model card,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Monitoring schedule,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Incident log process,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS001,ai_detection_tool,Rollback or suspension plan,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,System description and intended use,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Named accountable owner,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Decision influence map,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Data dictionary,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Demographic coverage summary,High,Missing,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Fairness and performance results,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,False positive testing,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Human oversight procedure,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Student notice text,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Appeal and challenge route,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,DPIA summary,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Equality impact assessment,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Vendor model card,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Monitoring schedule,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Incident log process,High,Missing,Yes,Demo governance evidence status for validator testing
+SYS002,student_chatbot,Rollback or suspension plan,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,System description and intended use,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Named accountable owner,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Decision influence map,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Data dictionary,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Demographic coverage summary,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Fairness and performance results,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,False positive testing,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Human oversight procedure,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Student notice text,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Appeal and challenge route,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,DPIA summary,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Equality impact assessment,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Vendor model card,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Monitoring schedule,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Incident log process,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS003,vle_engagement_analytics,Rollback or suspension plan,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,System description and intended use,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Named accountable owner,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Decision influence map,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Data dictionary,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Demographic coverage summary,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Fairness and performance results,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,False positive testing,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Human oversight procedure,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Student notice text,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Appeal and challenge route,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,DPIA summary,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Equality impact assessment,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Vendor model card,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Monitoring schedule,High,Missing,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Incident log process,High,Missing,Yes,Demo governance evidence status for validator testing
+SYS004,career_service_ai,Rollback or suspension plan,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,System description and intended use,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Named accountable owner,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Decision influence map,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Data dictionary,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Demographic coverage summary,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Fairness and performance results,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,False positive testing,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Human oversight procedure,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Student notice text,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Appeal and challenge route,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,DPIA summary,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Equality impact assessment,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Vendor model card,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Monitoring schedule,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Incident log process,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS005,ai_assisted_marking,Rollback or suspension plan,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,System description and intended use,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Named accountable owner,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Decision influence map,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Data dictionary,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Demographic coverage summary,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Fairness and performance results,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,False positive testing,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Human oversight procedure,Critical,Provided,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Student notice text,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Appeal and challenge route,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,DPIA summary,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Equality impact assessment,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Vendor model card,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Monitoring schedule,High,Missing,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Incident log process,High,Missing,Yes,Demo governance evidence status for validator testing
+SYS006,early_alert_prediction,Rollback or suspension plan,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,System description and intended use,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Named accountable owner,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Decision influence map,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Data dictionary,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Demographic coverage summary,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Fairness and performance results,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,False positive testing,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Human oversight procedure,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Student notice text,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Appeal and challenge route,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,DPIA summary,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Equality impact assessment,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Vendor model card,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Monitoring schedule,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Incident log process,High,Partial,Yes,Demo governance evidence status for validator testing
+SYS007,enrolment_forecasting,Rollback or suspension plan,Critical,Partial,Yes,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,System description and intended use,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Named accountable owner,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Decision influence map,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Data dictionary,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Demographic coverage summary,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Fairness and performance results,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,False positive testing,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Human oversight procedure,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Student notice text,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Appeal and challenge route,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,DPIA summary,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Equality impact assessment,Critical,Missing,No,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Vendor model card,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Monitoring schedule,High,Provided,Yes,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Incident log process,High,Missing,Yes,Demo governance evidence status for validator testing
+SYS008,automated_essay_scoring,Rollback or suspension plan,Critical,Missing,No,Demo governance evidence status for validator testing

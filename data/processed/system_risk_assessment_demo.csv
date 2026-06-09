@@ -1,0 +1,9 @@
+system_id,system_name,system_type,inherent_risk_score_1_5,control_maturity_score_0_5,model_fairness_score_1_5_higher_is_better,proxy_safety_score_1_5_higher_is_better,evidence_pack_score_0_5,residual_risk_score_1_5_higher_is_riskier,deployment_recommendation,demo_note
+SYS001,Academic Integrity AI Detector,ai_detection_tool,4.1,2.9,2.6,3.0,3.12,2.97,Pilot only / approve with strict conditions,Illustrative result for dashboard/reporting demonstration
+SYS002,Student Support Chatbot,student_chatbot,3.0,2.9,3.1,3.0,2.5,1.88,Approve with monitoring,Illustrative result for dashboard/reporting demonstration
+SYS003,VLE Engagement Analytics Dashboard,vle_engagement_analytics,4.1,2.9,2.8,2.4,2.81,3.01,Pilot only / approve with strict conditions,Illustrative result for dashboard/reporting demonstration
+SYS004,Career Services CV Reviewer,career_service_ai,3.0,1.8,3.1,2.4,2.19,2.11,Approve with monitoring,Illustrative result for dashboard/reporting demonstration
+SYS005,AI-Assisted Feedback Tool,ai_assisted_marking,4.1,1.8,3.1,3.0,0.31,3.33,Reject / prohibit until redesigned,Illustrative result for dashboard/reporting demonstration
+SYS006,Early Alert Prediction Model,early_alert_prediction,4.1,1.8,2.8,2.4,1.56,3.29,Pause deployment,Illustrative result for dashboard/reporting demonstration
+SYS007,Admissions Forecasting Tool,enrolment_forecasting,3.0,2.4,3.1,3.0,0.0,2.17,Reject / prohibit until redesigned,Illustrative result for dashboard/reporting demonstration
+SYS008,Automated Essay Scoring Pilot,automated_essay_scoring,4.8,1.8,3.1,3.0,1.25,3.95,Reject / prohibit until redesigned,Illustrative result for dashboard/reporting demonstration

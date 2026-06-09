@@ -1,0 +1,19 @@
+gender,subject_area,student_count,avg_weekly_genai_use_hours,avg_ai_confidence_score_1_5,ai_training_completion_rate,career_ai_tool_usage_rate,academic_misconduct_flag_rate,avg_assessment_score_after_ai_integration,ai_proficiency_gap_risk
+Female,Arts & Humanities,90,4.03,3.17,0.356,0.289,0.067,78.4,Moderate
+Female,Business,115,4.05,3.18,0.391,0.27,0.061,78.5,Moderate
+Female,Education,64,4.57,3.22,0.391,0.328,0.062,78.4,Moderate
+Female,Health,93,3.7,3.17,0.452,0.215,0.054,77.9,Moderate
+Female,STEM,91,4.9,3.24,0.418,0.319,0.066,79.6,Moderate
+Female,Social Sciences,43,3.91,3.16,0.395,0.349,0.093,78.3,Moderate
+Male,Arts & Humanities,55,5.13,3.59,0.309,0.291,0.055,80.9,Low
+Male,Business,112,4.98,3.66,0.509,0.357,0.062,81.7,Low
+Male,Education,34,4.86,3.59,0.324,0.382,0.0,80.1,Low
+Male,Health,47,4.67,3.82,0.362,0.362,0.128,81.4,Low
+Male,STEM,173,5.57,3.7,0.405,0.329,0.087,81.4,Low
+Male,Social Sciences,59,4.75,3.73,0.373,0.373,0.051,79.3,Low
+Non-disclosed,Arts & Humanities,4,5.03,2.91,0.5,0.5,0.0,81.3,High
+Non-disclosed,Business,6,3.45,2.53,0.5,0.167,0.0,77.1,High
+Non-disclosed,Education,2,5.6,3.5,0.0,0.0,0.0,84.0,Low
+Non-disclosed,Health,4,4.65,3.15,0.0,0.25,0.0,79.1,Moderate
+Non-disclosed,STEM,7,5.89,3.52,0.286,0.143,0.0,80.9,Low
+Non-disclosed,Social Sciences,1,0.6,5.0,0.0,1.0,1.0,100.0,High
